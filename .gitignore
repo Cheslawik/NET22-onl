@@ -1,3 +1,4 @@
-.vs/
-bin/
-obj/
+.git
+/Lesson1/.vs/
+/Lesson1/bin/
+/Lesson1/obj/
