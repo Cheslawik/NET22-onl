@@ -43,7 +43,13 @@
             boolResult = num1 == num2;
             Console.WriteLine(boolResult);
 
-
+            Console.WriteLine("Operations with ||");
+            boolResult = num1 > num2 || num1 < num3;
+            Console.WriteLine("Result of example: num1 > num2 || num1 < num3 - " + boolResult);
+            boolResult = num1 < num2 || num1 > num3;
+            Console.WriteLine("Result of example: num1 < num2 || num1 > num3 - " + boolResult);
+            boolResult = num1 < num2 || num1 < num3;
+            Console.WriteLine("Result of example: num1 > num2 || num1 > num3 - " + boolResult);
         }
     }
 }

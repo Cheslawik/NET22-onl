@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TeachMeSkills\\Homeworks\\Lesson1\\lesson1\\lesson1.csproj": {}
+    "D:\\TMS\\Lesson1\\lesson1\\lesson1.csproj": {}
   },
   "projects": {
-    "D:\\TeachMeSkills\\Homeworks\\Lesson1\\lesson1\\lesson1.csproj": {
+    "D:\\TMS\\Lesson1\\lesson1\\lesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TeachMeSkills\\Homeworks\\Lesson1\\lesson1\\lesson1.csproj",
+        "projectUniqueName": "D:\\TMS\\Lesson1\\lesson1\\lesson1.csproj",
         "projectName": "lesson1",
-        "projectPath": "D:\\TeachMeSkills\\Homeworks\\Lesson1\\lesson1\\lesson1.csproj",
+        "projectPath": "D:\\TMS\\Lesson1\\lesson1\\lesson1.csproj",
         "packagesPath": "C:\\Users\\slauk\\.nuget\\packages\\",
-        "outputPath": "D:\\TeachMeSkills\\Homeworks\\Lesson1\\lesson1\\obj\\",
+        "outputPath": "D:\\TMS\\Lesson1\\lesson1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
