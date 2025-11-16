@@ -16,7 +16,7 @@
                     isTrue = false;
                 } else if (selection == "6")
                 {
-                    Console.Write("Enter the number to find the square root: ");
+                    Console.Write("Enter the number to find the square root of number: ");
                     double rootNum = Convert.ToDouble(Console.ReadLine());
                    
                         if (rootNum >= 0)
